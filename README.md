@@ -35,7 +35,6 @@ Our product brand — AI workspace tooling built for agencies and the partners t
 | Repository | Description |
 | :--- | :--- |
 | **[cayo-cocoisland](https://github.com/sanvicpalawan/cayo-cocoisland)** | Coyo Coco resort website — Vite + React + TypeScript. |
-| **[baia-lodge-pms](https://github.com/sanvicpalawan/baia-lodge-pms)** | Hotel PMS with a commission-free direct booking engine and built-in AI agents. |
 | **[mergato-librechat](https://github.com/sanvicpalawan/mergato-librechat)** | Our internal white-label AI workspace, built on LibreChat. |
 | **[sanvicph](https://github.com/sanvicpalawan/sanvicph)** | SANVIC — interactive destination map for San Vicente, Palawan. |
 | **[kapwa-hospitality-os](https://github.com/sanvicpalawan/kapwa-hospitality-os)** | Open-source, AI-powered resort operations platform for boutique properties. |
